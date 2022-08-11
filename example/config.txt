@@ -1,0 +1,2 @@
+Prefix plugins/HoltWinters/example/
+Plugin HoltWinters inputfile parameters.holt.txt outputfile holt.png
